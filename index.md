@@ -10,7 +10,7 @@ hero:
     text: light
     search: true
 category:
-    columns: 6
+    columns: 3
 featured:
     title: Knowledge Base Articles
     tag: featured
