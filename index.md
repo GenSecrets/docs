@@ -1,7 +1,6 @@
 ---
 layout: help
 title: Where should I begin?
-mcplay.gen.run
 subtitle: Join today at mcplay.gen.run 
 
 --- 
