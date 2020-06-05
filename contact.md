@@ -1,10 +1,10 @@
 ---
 layout: contact
-title: Got Any Questions
+title: Needing further assistance? Get in contact.
 permalink: /contact/
 formspree:
-    email: my_name@gmail.com
+    email: gensecrets@gen.run
     redirect: /thanks/
 ---
 
-Submit the form and confirm your email address at [FormSpree](https://formspree.io/). Then add the following lines to contact page YAML Front Matter.
+There are multiple ways to contact me for further assistance. For starters, I always recommend to reach out to me on discord (details below). Should this contact be in reference to an issue being reported from inside the game, please make a ticket in game via the "/report create" command.

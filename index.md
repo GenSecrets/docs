@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Where should I begin?
-subtitle: Find advice and answers from our support team fast or get in touch
+subtitle: Knowledge base and support articles for all of Gen's Universe. \nJoin today at <h1>mcplay.gen.run</h1>
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -12,11 +12,11 @@ hero:
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Knowledge Base Articles
     tag: featured
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
+    title: Still have even more questions? Want to see more articles added?
+    subtitle: There are multiple ways to get in touch! Share your feedback with us today so that we can better help you.
     button_text: Contact Us   
     button_url: /contact/      
 ---
