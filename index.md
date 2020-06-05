@@ -1,8 +1,7 @@
 ---
 layout: help
-title: Where should I begin?
-mcplay.gen.run
-subtitle: Join today at mcplay.gen.run | Knowledge base and support articles for all of Gen's Universe. 
+title: MCPLAY.GEN.RUN
+subtitle: Where to begin? Knowledge base and support articles for all of Gen's Universe. 
 hero:
     background: "#663399"
     image: header_2.jpg
