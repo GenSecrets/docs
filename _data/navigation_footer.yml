@@ -1,10 +1,12 @@
 # Footer navigation links
-
 - title: Homepage
   url: /
 
 - title: Faq
   url: /faq/
+
+- title: Webstore
+  url: https://mcstore.gen.run/
 
 - title: Contact
   url: /contact/
