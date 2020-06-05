@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Desk
-description:        Knowledge base Jekyll theme.
+title:              Gen's Universe
+description:        Knowledge Base for Gen's Universe.
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -15,7 +15,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://jekyll-theme-desk.netlify.com"
+url:                "https://docs.gen.run"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
@@ -24,13 +24,13 @@ logo_image:
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
-    email:
-    website:
+    name:           GenSecrets
+    email:          mailto:GenSecrets@gen.run
+    website:        https://gen.run
     facebook:       https://www.facebook.com/
     flickr:
     dribbble:
-    github:
+    github:         https://github.io/
     googleplus:
     instagram:      https://www.instagram.com/
     linkedin:
@@ -40,12 +40,12 @@ author:
     youtube:
 
 # Social share buttons
-twitter_username:   somename
-github_username:    somename
+twitter_username:   gensecrets
+github_username:    gensecrets
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Rome, Italy.
+    copyright:      Owned and edited by <a href="https://gen.run/">GenSecrets</a>.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
