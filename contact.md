@@ -7,4 +7,4 @@ formspree:
     redirect: /thanks/
 ---
 
-There are multiple ways to contact me for further assistance. For starters, I always recommend to reach out to me on discord (details below). Should this contact be in reference to an issue being reported from inside the game, please make a ticket in game via the "/report create" command.
+There are multiple ways to contact me for further assistance. For starters, I always recommend to reach out to me on discord. Should this contact be in reference to an issue from inside the game, please make a ticket in game via the "/report create" command.
