@@ -1,15 +1,28 @@
 # Categories home page navigation
 
-- heading: Browse All Topics
+- heading: Knowledge Base Articles
   categories:
-    - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+    - title: About Gen's Universe
+      desc: Where can I find more information and community hangouts for the server?
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
+    - title: The Big Three
+      desc: What types of Gameplay are available? 
       icon: credit-card
 
-    - title: Troubleshooting
-      desc: Answers to most common configuration issues
+    - title: Server Information 
+      desc: Basic information about Gen's Universe and what you'll deal with daily.
+      icon: settings
+      
+    - title: Survival - Getting Started
+      desc: Survival is by far the most played Minecraft feature, let's get down to the roots. How do I start with customized gameplay?
       icon: cog
+
+    - title: Survival - RPG / Character Profile
+      desc: In Gen's Universe, you'll encounter many optional RPG style enhancements to enhance gameplay!
+      icon: cog
+
+    - title: Survival - Towny & Misc Tips
+      desc: Misc information and tips on how to make the most of your experience in game.
+      icon: cog
+

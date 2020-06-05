@@ -1,7 +1,7 @@
 ---
 layout: help
 title: MCPLAY.GEN.RUN
-subtitle: Where to begin? Knowledge base and support articles for all of Gen's Universe. 
+subtitle: Knowledge base and documentation articles for all of Gen's Universe. 
 hero:
     background: "#663399"
     image: header_2.jpg
@@ -10,7 +10,7 @@ hero:
     text: light
     search: true
 category:
-    columns: 3
+    columns: 6
 featured:
     title: Knowledge Base Articles
     tag: featured
