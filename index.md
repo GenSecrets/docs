@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Where should I begin?
-subtitle: Knowledge base and support articles for all of Gen's Universe. \nJoin today at **mcplay.gen.run**
+subtitle: Knowledge base and support articles for all of Gen's Universe. <br><br>Join today at mcplay.gen.run
 hero:
     background: "#663399"
     image: header_2.jpg
